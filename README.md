@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @malhar016
+- 👀 I’m interested in learning technologies related to fullstack development.
+- 🌱 I’m currently learning node, react and springboot.
+- 💞️ I’m looking to collaborate on open source projects.
+- 📫 How to reach me: email - malharbhuptani@gmail.com or linkedin - https://www.linkedin.com/in/malhar-bhuptani-86b8551b/
